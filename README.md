@@ -8,7 +8,7 @@
 
 ## Content
 
-## Dataset
+### Dataset
 
 The dataset has the following properties: 
 ```text
@@ -23,13 +23,13 @@ Date,"Price","Open","High","Low","Vol.","Change %"
 01/04/2022,"1,558.87","1,536.45","1,562.54","1,536.45","207.49K","1.51%"
 ```
 
-## Price chart: Show prices by month
+### Price chart: Show prices by month
 ![Image](https://github.com/vyllie333/VN30-Stock-Price-Prediction-With-LSTM/blob/master/Image/visualize.png)
 
-## Model
+### Model
 ![Image](https://github.com/vyllie333/VN30-Stock-Price-Prediction-With-LSTM/blob/master/Image/LSTM.png)
 
-## Evaluate: Based on R-square, RMSE, MSPE, MAPE
+### Evaluate: Based on R-square, RMSE, MSPE, MAPE
 ![Image](https://github.com/vyllie333/VN30-Stock-Price-Prediction-With-LSTM/blob/master/Image/predict.png)
 
 
